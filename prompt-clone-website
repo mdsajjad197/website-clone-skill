@@ -1,0 +1,27 @@
+Use `skill.md` as the single source of truth and execution contract.
+
+Objective:
+Clone the website from the given URL with exact visual and behavioral fidelity.
+
+Mandatory Rules:
+- Follow all sections of `skill.md` without deviation
+- Perform pixel-perfect visual replication (no redesign)
+- Download all publicly accessible assets (images, videos, fonts, 3D models, animations)
+- Organize assets using the defined public/assets structure
+- Replace all remote asset URLs with local paths
+- Rebuild components from scratch (do not copy source code)
+- Match layouts, fonts, colors, spacing, animations, and interactions exactly
+- Support desktop and mobile responsiveness
+- Optimize performance without altering visuals
+- Respect Ethical & Legal Compliance and Limitations
+
+Output Requirements:
+- Clean, modular, production-ready code
+- Local asset storage fully integrated
+- Ready-to-deploy build
+
+Target Framework:
+[HTML/CSS/JS | React | Next.js | Auto-detect]
+
+URL:
+[PASTE WEBSITE URL HERE]
